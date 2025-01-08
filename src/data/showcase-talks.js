@@ -1,5 +1,48 @@
 export const ShowcaseTalks = [
   {
+    title: 'Dask Array: Scaling Up for Terabyte-Level Performance',
+    url: '',
+    date: '2025-04-02T12:00-05:00',
+    time: '12PM EST',
+    doi: '',
+    authors: [
+      {
+        name: 'Patrick Höfler',
+        github: 'phofl',
+      },
+    ],
+  },
+  {
+    title: 'High-performance Python STAC tooling, backed by Rust',
+    url: '',
+    date: '2025-02-05T12:00-05:00',
+    time: '12PM EST',
+    doi: '',
+    authors: [
+      {
+        name: 'Pete Gadomski',
+        github: 'gadomski',
+      },
+    ],
+  },
+  {
+    title: 'Xpublish at Scale(s)',
+    url: '',
+    date: '2025-01-29T16:00-05:00',
+    time: '4PM EST',
+    doi: '',
+    authors: [
+      {
+        name: 'Alex Kerney',
+        github: 'abkfenris',
+      },
+      {
+        name: 'Joe Hamman',
+        github: 'jhamman',
+      },
+    ],
+  },
+  {
     title:
       'Geospatial reprojection in Python 2024 - what’s available and what’s next',
     url: 'https://discourse.pangeo.io/t/pangeo-showcase-geospatial-reprojection-in-python-2024-whats-available-and-whats-next/4531/14',
@@ -156,7 +199,7 @@ export const ShowcaseTalks = [
   },
   {
     title: 'Arkouda as an XArray backend for HPC',
-    url: '',
+    url: 'https://discourse.pangeo.io/t/pangeo-showcase-arkouda-as-an-xarray-backend-for-hpc/4693',
     date: '2024-11-20T16:00-05:00',
     time: '4PM EST',
     doi: '',
@@ -169,7 +212,7 @@ export const ShowcaseTalks = [
   },
   {
     title: 'xdggs: discrete global grid systems with xarray',
-    url: '',
+    url: 'https://discourse.pangeo.io/t/pangeo-showcase-xdggs-using-discrete-global-grid-systems-with-xarray/4728',
     date: '2024-12-04T16:00-05:00',
     time: '4PM EST',
     doi: '',
