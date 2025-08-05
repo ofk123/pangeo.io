@@ -13,11 +13,11 @@ export const CommunityMeetings = [
     name: 'Pangeo Community Meeting (Europe & Africa TZs)',
     description:
       'An informal meeting with open discussions. Anyone may attend!',
-    schedule: 'Every week on Tuesday at 9:30am CET',
+    schedule: 'Every Tuesday, alternating between 9am CET and 4pm CET',
     conferencing:
       'https://numfocus-org.zoom.us/j/81977735338?pwd=pVM3UvnSAJORc2p4Oad39TESPvBzV5.1',
     notes:
-      'https://docs.google.com/document/d/1Vq1ljPRQYWF_u0Ku1eEhQyYreijAJ2QW6FELdIsiYDs/edit?usp=sharing',
+      'https://docs.google.com/document/d/e/2PACX-1vS4pYSPFaRz31QQrHeTy4IwzbHIu3w5vLvcMybem7FEtPfmGff_Vg38CbJQcv0fFfZVJciaEH3j1YHc/pub',
   },
   {
     name: 'Pangeo Community Meeting (Oceania TZs)',
@@ -46,7 +46,7 @@ export const WorkingGroups = [
       'Open working group to explore alternative parallel computing frameworks.',
     schedule: 'Every Other Monday at 1pm ET',
     conferencing:
-      'https://columbiauniversity.zoom.us/j/99521529645?pwd=YzhIbDlhZUE1dUNvR2R4SzV5VVBhQT09',
+      'https://numfocus-org.zoom.us/j/83352967369?pwd=AidxVNb0Rlc6EjnWqG7MinrAZsUgQI.1',
     notes:
       'https://discourse.pangeo.io/t/new-working-group-for-distributed-array-computing/2734',
   },
@@ -68,6 +68,16 @@ export const WorkingGroups = [
       'https://carbonplan-org.zoom.us/j/83350079472?pwd=tPkPSoJ6YBZFQDaW69RPRrwWVrKfut.1',
     notes:
       'https://paper.dropbox.com/doc/Meeting-notes-Machine-Learning-WG--AmU~wZXwdbpTZi8rQsJQH9_sAg-9UUgyywF9jmIMXXbmZTyJ',
+  },
+  {
+    name: 'VirtualiZarr Coordination Meeting',
+    description:
+      'Open working group focusing on development of VirtualiZarr.',
+	schedule: 'Bi-Weekly, every other Friday at 2pm ET',
+    conferencing:
+      'https://numfocus-org.zoom.us/j/88307540201?pwd=Sn2uY0i3wRCqFaZ5oNbJRQrcg1FEyw.1',
+    notes:
+      'https://docs.google.com/document/d/18P_Uk2aL1hfcaJf4PJfYZJzmhvMSJjdmB_AJvjiZOVM/edit?tab=t.0#heading=h.ucu4t39djick',
   },
 ]
 

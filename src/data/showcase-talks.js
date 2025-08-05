@@ -1,20 +1,90 @@
 export const ShowcaseTalks = [
   {
+    title: 'Pangeo lightning talks!',
+    url: 'https://discourse.pangeo.io/t/spring-showcase-close-out-lightning-talks-april-16-2025-at-12-pm-et/5047',
+    date: '2025-04-16T12:00-05:00',
+    time: '12PM EDT',
+    doi: '',
+    authors: [
+      {
+        name: '',
+        github: '',
+      },
+    ],
+  },
+  {
     title: 'Dask Array: Scaling Up for Terabyte-Level Performance',
-    url: '',
-    date: '2025-04-02T12:00-05:00',
+    url: 'https://discourse.pangeo.io/t/pangeo-showcase-dask-array-scaling-up-for-terabyte-level-performance-april-9-2025-at-12-pm-et/5037',
+    date: '2025-04-09T12:00-05:00',
+    time: '12PM EDT',
+    doi: '',
+    authors: [
+      {
+        name: 'Hendrik Makait',
+        github: 'hendrikmakait',
+      },
+    ],
+  },
+  {
+    title:
+      'Real-time collaboration and collaborative editing for GIS workflows with Jupyter and QGIS',
+    url: 'https://discourse.pangeo.io/t/pangeo-showcase-real-time-collaboration-and-collaborative-editing-for-gis-workflows-with-jupyter-and-qgis-march-19-2025/4984',
+    date: '2025-03-19T12:00-05:00',
+    time: '12PM EDT',
+    doi: '',
+    authors: [
+      {
+        name: 'Martin Renou',
+        github: 'martinRenou',
+      },
+      {
+        name: 'Matt Fisher',
+        github: 'mfisher87',
+      },
+    ],
+  },
+  {
+    title: 'Building Scalable Mosaics with GDAL, Xarray, and Flyte',
+    url: 'https://discourse.pangeo.io/t/pangeo-showcase-building-scalable-mosaic-workflows-with-flyte-unionai-gdal-and-xarray-march-12-2025/4937',
+    date: '2025-03-12T16:00-05:00',
+    time: '4PM EDT',
+    doi: '',
+    authors: [
+      {
+        name: 'Leonard Strand',
+        github: 'ljstrnadiii',
+      },
+    ],
+  },
+  {
+    title: 'Zarr-Python 3 is here!',
+    url: 'https://discourse.pangeo.io/t/pangeo-showcase-zarr-python-3-and-beyond-march-05-2025/4918',
+    date: '2025-03-05T12:00-05:00',
     time: '12PM EST',
     doi: '',
     authors: [
       {
-        name: 'Patrick Höfler',
-        github: 'phofl',
+        name: 'Joe Hamman',
+        github: 'jhamman',
+      },
+    ],
+  },
+  {
+    title: 'FROST: Federated Registry Of Scientific Things',
+    url: 'https://discourse.pangeo.io/t/pangeo-showcase-frost-federated-registry-of-scientific-things-feb-12-2025/4861',
+    date: '2025-02-12T12:00-05:00',
+    time: '4PM EST',
+    doi: '',
+    authors: [
+      {
+        name: 'Tom Nicholas',
+        github: 'tomnicholas',
       },
     ],
   },
   {
     title: 'High-performance Python STAC tooling, backed by Rust',
-    url: '',
+    url: 'https://discourse.pangeo.io/t/pangeo-showcase-high-performance-python-stac-tooling-backed-by-rust/4847',
     date: '2025-02-05T12:00-05:00',
     time: '12PM EST',
     doi: '',
@@ -27,7 +97,7 @@ export const ShowcaseTalks = [
   },
   {
     title: 'Xpublish at Scale(s)',
-    url: '',
+    url: 'https://discourse.pangeo.io/t/pangeo-showcase-xpublish-at-scale-s/4825',
     date: '2025-01-29T16:00-05:00',
     time: '4PM EST',
     doi: '',
@@ -45,7 +115,7 @@ export const ShowcaseTalks = [
   {
     title:
       'Geospatial reprojection in Python 2024 - what’s available and what’s next',
-    url: 'https://discourse.pangeo.io/t/pangeo-showcase-geospatial-reprojection-in-python-2024-whats-available-and-whats-next/4531/14',
+    url: 'https://discourse.pangeo.io/t/pangeo-showcase-geospatial-reprojection-in-python-2024-whats-available-and-whats-next/4531',
     date: '2024-09-25T16:00-04:00',
     time: '4PM EDT',
     doi: '',
